@@ -1,0 +1,46 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri":"mysql://root:@localhost/blogpython",
+        "prod_uri":"mysql://root:@localhost/blogpython",
+        "fb_url":"https://facbook.com/blogpython",
+        "tw_url":"https://twiter.com/blogpython",
+        "gt_url":"https://github.com/blogpython",
+        "blog_url":"Relience blog",
+        "blog":"This  blog is using Flask(python)",
+        "about_page":"Mukesh Dhirubhai Ambani (born 19 April 1957) is an Indian billionaire business magnate, and the chairman, managing director, and largest shareholder of Reliance Industries Ltd. (RIL)",
+        "no_of_post":2,
+        "login_image":"about-bg.jpg",
+        "admin_user":"harry",
+        "admin_password": "ajay",
+        "admin_title":"Dashboard",
+        "admin_sub":"You can Manage Your Post",
+        "dash_url":"You Can Add Post ",
+
+        "dash_sub":"You Can Add Post Via Fronend in Your Databases"
+        
+        
+        
+        
+
+
+    }
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}
